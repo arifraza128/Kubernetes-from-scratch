@@ -1,0 +1,3 @@
+here i created cluster node using minikube
+kearn how to create minikube dashboard
+how kubectl work on mininkube
