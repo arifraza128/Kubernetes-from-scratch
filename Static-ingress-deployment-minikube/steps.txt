@@ -1,0 +1,1 @@
+User → Browser → EC2 → Kubernetes Service → Pod → NGINX → HTML/CSS/JS
